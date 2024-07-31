@@ -1,0 +1,3 @@
+/Users/stevenchaves/AndroidStudioProjects/AlstraTest/app/.cxx/Debug/515v2t4l/arm64-v8a/CMakeFiles/native-lib.dir
+/Users/stevenchaves/AndroidStudioProjects/AlstraTest/app/.cxx/Debug/515v2t4l/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/stevenchaves/AndroidStudioProjects/AlstraTest/app/.cxx/Debug/515v2t4l/arm64-v8a/CMakeFiles/rebuild_cache.dir
